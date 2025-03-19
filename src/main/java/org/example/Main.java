@@ -52,6 +52,6 @@ public class Main {
 
         String sha256hex = DigestUtils.sha256Hex("Lingan guli guli guli wata");
         System.out.println(sha256hex);
-
+        //xxdxd
     }
 }
