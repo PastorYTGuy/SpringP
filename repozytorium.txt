@@ -1,0 +1,5 @@
+car1;Toyota;Corolla;2015;30000;false
+car2;Ford;Focus;2018;35000;true
+motor1;Sport;Yamaha;R1;2020;50000;false
+motor2;Cruiser;Harley-Davidson;Iron 883;2019;45000;true
+car3;BMW;X5;2021;70000;false
